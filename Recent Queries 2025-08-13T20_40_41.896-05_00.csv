@@ -1,0 +1,2 @@
+Execution ID,Query,Start time,Status,Run time,Data scanned,Query engine version used,Encryption
+905532ea-fe03-4b07-8624-a78b97c7c749,"SELECT * FROM ""AwsDataCatalog"".""weather_db"".""weather_raw_data2"" limit 10",2025-08-13T20:22:43.795-05:00,SUCCEEDED,1.165 sec,0.60 KB,Athena engine version 3,
